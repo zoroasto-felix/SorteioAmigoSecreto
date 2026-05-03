@@ -173,13 +173,3 @@ graph TD
 ## 📄 Licença
 Este projeto está licenciado sob a **MIT License**.
 ```
-
----
-
-### Por que mudei isso?
-1.  **Mermaid**: Ao colocar o código entre ` ```mermaid ` e ` ``` `, o GitHub vai gerar um gráfico de verdade, com blocos e setas, em vez de mostrar apenas o texto.
-2.  **Clareza**: Separei a Estrutura de Arquivos em um bloco de texto (`text`) para não confundir o leitor.
-3.  **Padronização**: Removi emojis repetitivos nos títulos para manter o estilo limpo e profissional de um estudante de **Data Science**.
-
-Agora seu README está pronto para brilhar tanto quanto o seu código!
-```
