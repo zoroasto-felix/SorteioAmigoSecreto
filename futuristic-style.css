@@ -69,7 +69,7 @@ body {
     position: relative; /* Necessário para o ::before */
 
     /* Imagem de fundo futurista de amigos */
-    background-image: url('assets/futuristic-friends-background.png'); /* Adicione sua imagem aqui */
+    background-image: url('assets/futuristic-friends-background.jpg'); /* Adicione sua imagem aqui */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
